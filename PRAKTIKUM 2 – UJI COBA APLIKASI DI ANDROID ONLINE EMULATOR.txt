@@ -1,0 +1,35 @@
+PRAKTIKUM 2 – UJI COBA APLIKASI DI ANDROID ONLINE EMULATOR
+
+Aplikasi: PERSIB (Pemesanan Tiket)
+a. Akses Penyimpanan
+
+Ya, aplikasi meminta akses ke penyimpanan.
+
+Tujuan:
+
+Menyimpan data tiket (e-ticket)
+Upload bukti pembayaran
+Menyimpan file terkait transaksi
+
+Kesimpulan:
+Akses ini wajar, karena dibutuhkan untuk fungsi utama aplikasi, namun tetap termasuk izin yang sensitif.
+
+b. Pengalaman Menggunakan Emulator vs Perangkat Nyata
+
+Di Emulator (MyAndroid):
+
+Aplikasi dapat berjalan dengan baik
+Proses sedikit lebih lambat
+Beberapa fitur (kamera/lokasi) terbatas
+Tidak semua fungsi berjalan maksimal
+
+Di Perangkat Nyata:
+
+Aplikasi berjalan lebih cepat dan responsif
+Semua fitur dapat digunakan (kamera, GPS, dll)
+Pengalaman pengguna lebih optimal
+
+Kesimpulan Akhir
+
+Penggunaan emulator seperti MyAndroid membantu untuk uji coba aplikasi secara aman tanpa perangkat fisik, namun memiliki keterbatasan performa dan fitur.
+Sedangkan pada perangkat nyata, aplikasi berjalan lebih maksimal dan sesuai kondisi sebenarnya.
