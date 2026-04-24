@@ -1,0 +1,32 @@
+PRAKTIKUM 1 – KEAMANAN APK DENGAN MOBSF
+
+Aplikasi: PERSIB (Pemesanan Tiket)
+a. Analisis 5 Izin (Permissions)
+
+1.INTERNET → untuk akses server pemesanan tiket (wajar)
+2.ACCESS_NETWORK_STATE → mengecek koneksi internet (wajar)
+3.ACCESS_FINE_LOCATION → mengetahui lokasi pengguna (cukup sensitif)
+4.READ_EXTERNAL_STORAGE → membaca file dari perangkat (perlu perhatian)
+5.CAMERA → scan QR code tiket (wajar)
+
+Kesimpulan:
+Sebagian besar izin sesuai dengan fungsi aplikasi, namun izin lokasi dan penyimpanan termasuk sensitif sehingga harus digunakan dengan hati-hati.
+
+b. Security Warning & Risiko
+
+Temuan:
+android:allowBackup=true
+
+Penjelasan:
+Aplikasi mengizinkan data untuk dibackup oleh sistem.
+
+Risiko:
+
+Data pengguna bisa diambil dari backup
+Potensi kebocoran data pribadi
+Bisa disalahgunakan oleh pihak tidak bertanggung jawab
+
+Kesimpulan Akhir
+
+Aplikasi PERSIB tergolong cukup aman karena izin yang digunakan sesuai kebutuhan. Namun tetap terdapat potensi risiko pada fitur backup dan akses data,
+sehingga pengguna harus berhati-hati dan hanya menggunakan aplikasi dari sumber resmi.
