@@ -1,0 +1,13 @@
+PRAKTIKUM 4 – ANALISIS PERILAKU APLIKASI
+
+a. Perilaku Mencurigakan
+Aplikasi mengakses internet secara terus-menerus (network activity tinggi)
+Aplikasi meminta akses lokasi meskipun tidak selalu digunakan
+
+b. Indikator Aplikasi Aman
+Tidak mengakses data tanpa izin
+Tidak mengirim data ke server mencurigakan
+Fitur berjalan sesuai fungsi (booking tiket)
+
+Kesimpulan:
+Aplikasi tergolong cukup aman, tidak ditemukan perilaku berbahaya yang signifikan.
