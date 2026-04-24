@@ -1,0 +1,22 @@
+PRAKTIKUM 3 – MITRE ATT&CK
+
+a. Teknik Serangan
+
+ID: T1417
+Nama: Access Sensitive Data in Device
+
+Deskripsi:
+Aplikasi dapat mengakses data sensitif pengguna seperti file, lokasi, atau informasi pribadi tanpa kontrol yang ketat.
+
+b. Analisis Berdasarkan MobSF
+
+Berdasarkan hasil Praktikum 1, aplikasi PERSIB memiliki izin seperti:
+
+Storage
+Location
+
+Kemungkinan teknik serangan:
+➡️ T1417 (Access Sensitive Data)
+
+Alasan:
+Karena aplikasi memiliki akses ke data pengguna, maka berpotensi digunakan untuk mengambil informasi sensitif jika tidak diamankan dengan baik.
