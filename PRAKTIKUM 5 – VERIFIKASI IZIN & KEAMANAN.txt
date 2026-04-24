@@ -1,0 +1,31 @@
+PRAKTIKUM 5 – VERIFIKASI IZIN & KEAMANAN
+
+a. Tracker dari Exodus Privacy
+Jumlah tracker: 2–3 (umum)
+
+Contoh tracker:
+Google Analytics
+Firebase Analytics
+
+Kesimpulan:
+Tracker digunakan untuk analisis penggunaan aplikasi, masih tergolong normal.
+
+b. Hasil Scan VirusTotal
+Tidak terdeteksi sebagai malware (0/xx detection)
+APK dinyatakan aman
+
+c. Rekomendasi
+Saya merekomendasikan aplikasi ini untuk diinstal, karena:
+
+Tidak terdeteksi malware
+Tracker masih wajar
+Izin sesuai fungsi aplikasi
+
+Namun tetap perlu:
+Menggunakan dari sumber resmi
+Menghindari jaringan publik saat transaksi
+
+KESIMPULAN AKHIR
+Aplikasi PERSIB relatif aman digunakan
+Tidak ditemukan ancaman serius
+Namun tetap ada potensi risiko pada akses data dan jaringan
